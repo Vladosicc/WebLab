@@ -1,0 +1,46 @@
+.mainBorder {
+    border-radius: 5px;
+    border-width: 2px;
+    border-style: solid;
+    width: 350px;
+    height: 650px;
+    position: relative;
+    margin: auto;
+}
+
+.h4 {
+    text-align: center;
+}
+
+.divideLine p {
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 1px;
+    border-style: solid;
+}
+
+.innerDiv {
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 5px;
+    position: relative;
+}
+
+.locateImg {
+    position: relative;
+    width: 200px;
+    height: 200px;
+}
+
+.locateImg p {
+    position: relative;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.inCenter {
+    text-align: center !important;
+}
